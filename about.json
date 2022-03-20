@@ -23,11 +23,11 @@
     "air-dark": {
       "primary": "E0E0E0",
       "secondary": "2D2D2D",
-      "tertiary": "9A5CFD",
+      "tertiary": "3877e5",
       "quaternary": "71bd9f",
       "header_background": "202020",
       "header_primary": "E0E0E0",
-      "highlight": "9A5CFD",
+      "highlight": "3877e5",
       "danger": "D05454",
       "success": "71BD9F",
       "love": "C16AD7"
